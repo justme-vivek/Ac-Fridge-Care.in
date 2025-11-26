@@ -20347,7 +20347,7 @@ const Gl = ({ open: e, onOpenChange: t }) => {
             tC.info("Opening WhatsApp to contact us.");
           } catch {}
           try {
-            const whatsappNumber = "7856066176";
+            const whatsappNumber = "9241928068";
             const msg = `*New Service Booking Request*\n\nName: ${n.name}\nPhone: ${n.phone}\nService: ${n.service}\nAddress: ${n.address}`;
             const url =
               "https://wa.me/" +
@@ -21039,10 +21039,10 @@ const l0 = "/assets/washingmachine-BIYxpe1V.png",
                             children: "Call Us",
                           }),
                           c.jsx("a", {
-                            href: "tel:7856066176",
+                            href: "tel:9241928068",
                             className:
                               "text-2xl text-primary hover:text-primary/80 transition-colors block",
-                            children: "7856066176",
+                            children: "9241928068",
                           }),
                           c.jsx("p", {
                             className: "text-sm text-muted-foreground",
